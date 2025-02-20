@@ -1,0 +1,6 @@
+langchain_google_genai
+crewai
+crewai_tools
+langchain_community
+python-dotenv
+markdown
